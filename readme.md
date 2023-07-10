@@ -1,5 +1,7 @@
 # Web app automation testing with WebdriverIO
 
+## Website: https://www.saucedemo.com/
+
 ## Run `npm install`
    
 ## How to run tests
