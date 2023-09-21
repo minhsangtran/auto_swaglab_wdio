@@ -20,7 +20,7 @@
   },
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/thutrangtranthi/auto-swaglab-wdio",
+  "repository": "",
   "author": "Sang Tran",
   "license": "MIT",
   "dependencies": {
